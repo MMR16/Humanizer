@@ -1,0 +1,6 @@
+@HumanizerApi_HostAddress = http://localhost:5178
+
+GET {{HumanizerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
